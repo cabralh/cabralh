@@ -3,7 +3,7 @@
 <p>
   <a href="https://hjcbr19.medium.com/">Medium</a> •
   <a href="https://twitter.com/cabralhjr">Twitter</a> •
-  <a href="https://henrycabral.me>Portfolio</a>
+  <a href="https://henrycabral.me">Portfolio</a>
 </p>
 
 ---
