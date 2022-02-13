@@ -1,19 +1,21 @@
-<h3>👋 Hi there, I'm Henry.</h3>
+<h3>👋 Hi!, I'm Henry.</h3>
+<h4>Thanks for checking my Github!</h4>
 
+
+<h4>My Social Links</h4>
 <p>
   <a href="https://hjcbr19.medium.com/">Medium</a> •
   <a href="https://twitter.com/cabralhjr">Twitter</a> •
-  <a href="https://henrycabral.me">Portfolio</a> •
-  <a href="https://overthnk.me">Thought Blog</a>
+  <a href="https://enableu.ai">Startup</a>
 </p>
 
 ---
 
-I'm a Automation/Mechanical Engineer at [Aprecia](https://www.aprecia.com/) working on 3DP Pharmaceutical Manufacturing Equipment. On my free time, I also work full stack applications which include CloudSenseIO, mechanical design projects on my 3D printers, or technical writing related to mechanical design and rapid prototyping.
+I'm a Startup Founder & Creative Engineer @ [Enable](https://www.enableu.ai), a digital product development startup focused on building physical products using additive manufacturing techniques geared for minimal viable products, small and large scale production. On my free time, I write about all things additive @ [Uncured Resin](https://www.uncuredresin.com)
 
-- 🔭 **I'm seeking new opportunities within Full Stack Web Development**
-- :cyclone: I use the following daily: `.js`, `.html`, `.css`, `Gatsby`, `React`, `Redux`
-- :cloud: I’m currently working on CloudSenseIO
-- 🌱 I’m currently learning about embedded systems and back-end development
-- 📫 Reach me: [@cabralhjr](https://twitter.com/cabralhjr)
+I'm obessed with all things 3-D Printing/Modeling/Design/Art.
+
+- 🔭 **Want to collaborate? Reach me at [@cabralhjr](https://twitter.com/cabralhjr)**
+- 🌱 I’m currently building a digital product development company focused on creating functional products using additive manufacturing.
+- 📫 Reach me: [@cabralhjr](https://twitter.com/cabralhjr) or via [email](hjcbr19@gmail.com)
 - ⚡️ Fun fact: I find excuses to be outside
