@@ -11,11 +11,11 @@
 
 ---
 
-I'm a Startup Founder & Creative Engineer @ [Enable](https://www.enableu.ai), a digital product development startup focused on building physical products using additive manufacturing techniques geared for minimal viable products, small and large scale production. On my free time, I write about all things additive @ [Uncured Resin](https://www.uncuredresin.com)
+I'm a Creative Engineer, Content & Technical Writer. I'm open to new contracts!
 
 I'm obessed with all things 3-D Printing/Modeling/Design/Art.
 
 - 🔭 **Want to collaborate? Reach me at [@cabralhjr](https://twitter.com/cabralhjr)**
-- 🌱 I’m currently building a digital product development company focused on creating functional products using additive manufacturing.
+- 🌱 I’m currently building a digital content oulet.
 - 📫 Reach me: [@cabralhjr](https://twitter.com/cabralhjr) or via [email](hjcbr19@gmail.com)
 - ⚡️ Fun fact: I find excuses to be outside
