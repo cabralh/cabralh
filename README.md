@@ -13,9 +13,9 @@
 
 I'm a Creative Engineer, Content & Technical Writer. I'm open to new contracts!
 
-I'm obessed with all things 3-D Printing/Modeling/Design/Art.
+I'm obsessed with 3-D Printing/Modeling/Design/Art.
 
 - 🔭 **Want to collaborate? Reach me at [@cabralhjr](https://twitter.com/cabralhjr)**
-- 🌱 I’m currently building a digital content oulet.
+- 🌱 I’m currently building a digital content outlet.
 - 📫 Reach me: [@cabralhjr](https://twitter.com/cabralhjr) or via [email](hjcbr19@gmail.com)
 - ⚡️ Fun fact: I find excuses to be outside
